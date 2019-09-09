@@ -46,7 +46,7 @@ p {
     top: 0;
     width: 100%;
     height: 100vh;
-    background: url(images/bannerbg.jpg);
+    background: url(bannerbg.jpg);
     background-size: cover;
     margin-bottom: 0;
 }
@@ -151,7 +151,7 @@ p {
 }
 .sec2 {
     position: relative;
-    background: url(images/bannerbg2.jpg);
+    background: url(bannerbg2.jpg);
     background-size: cover;
     height: 100vh; 
 }
@@ -211,7 +211,7 @@ p {
 .contact {
     position: relative;
     padding: 100px 0;
-    background: url(images/bannerbg3.jpg);
+    background: url(bannerbg3.jpg);
     background-size: cover;
     min-height: 100vh;
 }
